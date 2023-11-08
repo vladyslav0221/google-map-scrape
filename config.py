@@ -1,0 +1,7 @@
+SERVER = '127.0.0.1'
+DATABASE = 'jobs'
+MODEL_DIRECTORY = '.\\Data\\'
+USERNAME = 'root'
+PASSWORD = ''
+SITE_URL = 'https://www.simplyhired.com'
+OUTPUT_RESULT = 'FILE'
